@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ole-Andreas</h1>
-<h3 align="center">Frontend developer from Norway.</h3>
+<h1>Hi 👋, I'm Ole-Andreas</h1>
+<h3>Frontend developer from Norway.</h3>
 
 - 👨‍💻 Temporary portfolio [ole-a-portfolio.netlify.app](ole-a-portfolio.netlify.app)
 
